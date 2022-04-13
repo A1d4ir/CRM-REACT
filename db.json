@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Aldair",
+      "empresa": "Santa",
+      "email": "correo@correo.com",
+      "telefono": "8182721690",
+      "notas": "Cliente recomendado",
+      "id": 1
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "Karen Diseño",
+      "email": "karen@karen.com",
+      "telefono": "8182721691",
+      "notas": "Karen esta cotizando toner",
+      "id": 2
+    },
+    {
+      "nombre": "Paulina",
+      "empresa": "Paulina Construcciones",
+      "email": "paulina@paulina.com",
+      "telefono": "8182721692",
+      "notas": "",
+      "id": 3
+    }
+  ]
+}
